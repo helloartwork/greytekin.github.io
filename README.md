@@ -1,2 +1,2 @@
 # greytekin.art
-Grey Tekin Webpages
+Grey Tekin's Webpage
